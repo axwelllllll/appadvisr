@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Restaurant Advisor</string>
+
+    <!--Acceuil -->
+
+    <!-- Page d'inscription -->
+    <string name="home_inscription">Registration</string>
+    <string name="page_inscription_pseudo">Username</string>
+    <string name="page_inscription_mdp">Password</string>
+    <string name="page_inscription_mail">E-mail</string>
+    <string name="page_inscription_mobile">Phone</string>
+    <string name="home_inscription_création">Register</string>
+
+    <!-- Page de connexion -->
+    <string name="home_connexion">Connection</string>
+    <string name="home_connexion_pseudo">Username</string>
+    <string name="home_connexion_mdp">Password</string>
+    <string name="home_connexion_connexion">Connection</string>
+
+    <!-- Liste des restaurants -->
+    <string name="restaurant">Restaurants</string>
+
+    <!-- Modifier restaurants -->
+    <string name="modifier">Editr</string>
+    <string name="modifier_delete">Delete</string>
+
+    <!-- Afficher liste des menus -->
+    <string name="menus">Liste</string>
+    <string name="menus_modifier">Edit</string>
+    <string name="menus_delete">Delete</string>
+
+    <!-- Fenêre popup de détails -->
+    <string name="Info">Info</string>
+    <string name="restaurant_name">Name</string>
+    <string name="restaurant_description">Description</string>
+    <float name="restaurant_grade">Grade</float>
+    <string name="restaurant_localization">Localization</string>
+    <string name="restaurant_phone_number">Phone</string>
+    <string name="restaurant_website">Website</string>
+    <string name="restaurant_hours">Hours</string>
+
+</resources>
